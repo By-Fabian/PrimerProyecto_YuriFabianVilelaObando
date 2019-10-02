@@ -10,6 +10,7 @@ int main() {
     }
     else{
         cout<<"Pasaste el curso GAAA!!!"<<endl;
+        cout<<"Eso es lo que crees GAAAAA!!!" << endl;
     }
     return 0;
 }
